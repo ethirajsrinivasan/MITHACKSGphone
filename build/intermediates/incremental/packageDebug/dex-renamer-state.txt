@@ -1,0 +1,7 @@
+#Sat Feb 11 12:21:05 SGT 2017
+base.0=/home/ethi/AndroidStudioProjects/ConnectivitySample_Phone/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cf3f054ad964ed56d78efdf92743fcccba57503d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/ethi/AndroidStudioProjects/ConnectivitySample_Phone/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fae89ec4f157d083e1652e51f895494d6de28145/classes.dex
+base.1=/home/ethi/AndroidStudioProjects/ConnectivitySample_Phone/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fae89ec4f157d083e1652e51f895494d6de28145
+file.0=/home/ethi/AndroidStudioProjects/ConnectivitySample_Phone/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cf3f054ad964ed56d78efdf92743fcccba57503d/classes.dex
